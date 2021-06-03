@@ -1,0 +1,7 @@
+.text-input{
+    width: 23.5%;
+    font-size: 26px;
+    padding: 5px 10px;
+    border-radius: 6px;
+    border-block: inherit;
+}
