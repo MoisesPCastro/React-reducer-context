@@ -3,7 +3,7 @@
     background: #eee;
     padding: 30px;
   }
-  
+
   .button-container {
     min-height: 100px;
     display: flex;
@@ -16,4 +16,11 @@
 
   .search-container  h2 {
     margin-top: 30px;
+  }
+
+  .contente_home{
+    margin: 20px;
+
+
+
   }
